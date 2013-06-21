@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Random numbers with 'Dice like' interface.",
   "main": "lib/roll.js",
-  "repository": "",
+  "repository": "https://github.com/ShurakaiSoft/roll.git",
   "keywords": [
     "dice",
     "die",
