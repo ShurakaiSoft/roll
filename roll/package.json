@@ -1,5 +1,5 @@
 {
-  "name": "dice",
+  "name": "roll",
   "version": "0.1.0",
   "description": "Random numbers with 'Dice like' interface.",
   "main": "lib/roll.js",
